@@ -11,3 +11,5 @@ this is mlops practical demonstrating basic mlops project structure
 python src/data_ingestion.py
 python src/train.py
 python src/evaluate.py
+
+add
